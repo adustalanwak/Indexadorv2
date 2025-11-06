@@ -1,0 +1,15 @@
+PyQt6==6.5.3
+pdfplumber==0.10.3
+pytesseract==0.3.10
+Pillow==10.3.0
+requests==2.32.4
+sqlite3
+pdfminer.six==20231228
+camelot-py[cv]==0.10.1
+opencv-python==4.8.1.78
+langchain-huggingface
+langchain-ollama
+langchain-community==0.3.27
+langchain-core==0.1.35
+faiss-cpu==1.7.4
+safety==2.3.5
